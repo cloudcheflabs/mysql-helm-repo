@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroaster-trino-gateway-mysql:
+  - apiVersion: v2
+    appVersion: "5.7"
+    created: "2022-06-13T10:39:02.115709694Z"
+    description: dataroaster mysql for trino gateway.
+    digest: c1768d0cab811503ad8cb5756dbc92d747327b928cb855fe11597573d0d9e1a3
+    name: dataroaster-trino-gateway-mysql
+    urls:
+    - dataroaster-trino-gateway-mysql-v1.0.0.tgz
+    version: v1.0.0
+generated: "2022-06-13T10:39:02.11539055Z"
