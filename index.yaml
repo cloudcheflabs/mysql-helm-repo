@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroaster-mysql:
+  - apiVersion: v2
+    appVersion: "5.7"
+    created: "2022-06-24T04:52:22.032081038Z"
+    description: dataroaster mysql.
+    digest: 6cbc606523f094fd39f519b7b05bc17d5423d8d99b0d19e2eb28fce537bbd138
+    name: dataroaster-mysql
+    urls:
+    - dataroaster-mysql-v1.0.1.tgz
+    version: v1.0.1
+generated: "2022-06-24T04:52:22.031785689Z"
