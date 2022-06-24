@@ -3,7 +3,7 @@ entries:
   dataroaster-mysql:
   - apiVersion: v2
     appVersion: "5.7"
-    created: "2022-06-24T05:10:08.071521334Z"
+    created: "2022-06-24T05:12:37.786169617Z"
     description: dataroaster mysql.
     digest: c9e230259a42d4a704ebcfd309151fcb60d2e3fb4b6a0e54aba0c45b51513507
     name: dataroaster-mysql
@@ -13,11 +13,21 @@ entries:
   dataroaster-trino-gateway-mysql:
   - apiVersion: v2
     appVersion: "5.7"
-    created: "2022-06-24T05:10:08.07168847Z"
+    created: "2022-06-24T05:12:37.786365368Z"
     description: dataroaster mysql for trino gateway.
     digest: c1768d0cab811503ad8cb5756dbc92d747327b928cb855fe11597573d0d9e1a3
     name: dataroaster-trino-gateway-mysql
     urls:
     - dataroaster-trino-gateway-mysql-v1.0.0.tgz
     version: v1.0.0
-generated: "2022-06-24T05:10:08.071244821Z"
+  dataroastermysql:
+  - apiVersion: v2
+    appVersion: "5.7"
+    created: "2022-06-24T05:12:37.786517195Z"
+    description: dataroaster mysql.
+    digest: 3d6d365f30d5a258948d6b328ca703de1cd6ad8519ff17e647afe84e9182db53
+    name: dataroastermysql
+    urls:
+    - dataroastermysql-v1.0.2.tgz
+    version: v1.0.2
+generated: "2022-06-24T05:12:37.785862797Z"
